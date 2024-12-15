@@ -1,0 +1,98 @@
+# Wireframe-Project-
+Interactive Wireframe Project from Informatics 131 Human Computer Interaction
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nurazmera Mossa - Portfolio</title>
+</head>
+<body>
+    <header>
+        <img src="file:///Users/nurazmeramossa/Desktop/IMG_3688.HEIC" alt="Nurazmera Mossa">
+        <h1>Nurazmera Mossa</h1>
+        <p>1334 Hope Drive, Santa Clara, CA 95054 | <a href="mailto:Nurazmeramossa7@gmail.com">Nurazmeramossa7@gmail.com</a> | <a href="https://www.linkedin.com/in/nurazmera-mossa-b6433b177/">LinkedIn</a></p>
+    </header>
+
+  <div>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome to my personal portfolio! I am a Psychology major at UCI with a minor in Human Computer Interaction. My passion lies in understanding and enhancing user experiences through design and technology. This website showcases my academic, professional, and personal projects.</p>
+        </section>
+
+  <section id="education">
+            <h2>Education</h2>
+            <p><strong>University of California, Irvine</strong> <br> Bachelor of Science in Psychology, Minor in Human Computer Interaction <br> Expected Graduation: June 2026</p>
+        </section>
+
+  <section id="skills">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Programming Languages: R, Python</li>
+                <li>Microsoft Office: Word, Excel, PowerPoint</li>
+            </ul>
+        </section>
+
+  <section id="experience">
+            <h2>Experience</h2>
+            <h3>Computation and Neural Lab</h3>
+       Collaborated closely with a Ph.D. student to investigate neural mechanisms underlying cognitive processes using experimental and computational approaches. Contributed to advanced data analysis and modeling to study decision-making and cue learning.
+     
+  <p>Research Assistant (Sep 2024 - Present)</p>
+            <ul>
+                <li>Conducted human subject experiments and collected data for cognitive tasks.</li>
+                <li>Automated data analysis and visualization workflows using MATLAB.</li>
+                <li>Streamlined post-experiment processes, reducing time by 80%.</li>
+            </ul>
+
+  <h3>Accenture & Girls Who Code</h3>
+            <p>Intern (May 2024 - June 2024)</p>
+   Selected for Accenture's program supporting women passionate about consulting and innovation. Participated in workshops on transferable skills, growth mindset, and technical roles in a global consulting firm.
+     
+   <ul>
+                <li>Developed an IoT hospital solution, showcasing Human-Computer Interaction expertise.</li>
+                <li>Selected as Closing Ceremony speaker out of over 70 participants for demonstrating enthusiasm and significant contributions to program discussions and activities.
+.</li>
+            </ul>
+
+  <h3>Autism Learning Partners</h3>
+            <p>Behavior Technician (Apr 2024 - Jun 2024)</p>
+            <ul>
+                <li>Supported clients with autism using Applied Behavioral Analysis techniques.</li>
+                <li>Collaborated with parents and analysts for optimal client outcomes.</li>
+            </ul>
+        </section>
+
+  <section id="projects">
+            <h2>Projects</h2>
+            <p><strong>Spotify App Redesign</strong></p>
+            <p> Prototype and Interactive Wireframe showcasing improvements to the Spotify app.</p>
+            <a href="https://www.figma.com/design/JbFw2vSI2LrzKC9ycp4b2p/P3-Prototype?node-id=0-1&t=h7TQo2X9fHWc3MeC-1" target="_blank">Interactive Wireframe</a>
+        
+  <a href="https://www.figma.com/design/plt132PImPobenfmNGwvXl/P3-Prototype?node-id=0-1&t=svIqwQF1HIeDGVFn-1" target="_blank">Prototype</a>
+
+  </section>
+
+  <section id="leadership">
+            <h2>Leadership & Involvement</h2>
+            <h3>Synapse At UCI</h3>
+            <p>Vice President of Outreach/Founder (Jun 2023 - Present)</p>
+            <ul>
+                <li>Directed outreach initiatives, increasing meeting attendance by 40% yearly.</li>
+                <li>Organized events to raise awareness about brain injuries.</li>
+            </ul>
+
+  <h3>Muslim Student Association</h3>
+            <p>Member (Sep 2022 - Present)</p>
+            <ul>
+                <li>Volunteered during Ramadan to support community members.</li>
+            </ul>
+        </section>
+
+  <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Feel free to reach out via email at <a href="mailto:Nurazmeramossa7@gmail.com">Nurazmeramossa7@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/nurazmera-mossa-b6433b177/">LinkedIn</a>.</p>
+        </section>
+    </div>
+</body>
+</html>
